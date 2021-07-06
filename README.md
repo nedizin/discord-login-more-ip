@@ -1,5 +1,5 @@
 # Ferreira13
- 
+# FULL CREDITOS AO SWIPE13, EU SO DEI FIX AOS IDS QUE NAO ESTAVAM A IR PRA DB
  Discord Login mais ip e outras informações.
 
 - Primeiro vá para **login.php** e **index.php** e mude para as suas credenciais do discord.
